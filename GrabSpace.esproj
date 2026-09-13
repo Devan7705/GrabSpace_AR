@@ -1,0 +1,54 @@
+studioVersion:
+  major: 5
+  minor: 23
+  patch: 0
+  build: 26072806
+  type: Public
+coreVersion: 372
+clientVersion: 14.16
+updateCheckpoint: 102
+sceneId: 0a1ccb1a-fe88-4fbb-9883-e3af3c75fd99
+metaInfo:
+  hints:
+    []
+  tags:
+    []
+  lensName: Hand Tracking
+  lensDescriptors:
+    []
+  lensApplicableContext:
+    - live_camera
+    - reply_camera
+    - video_chat
+  lensApplicability:
+    - Front
+    - Back
+  lensClientCompatibilities:
+    - Mobile
+    - CameraKit
+  platformBundlesEnabled: false
+  iconHash: d3112e09decc9cb0619ec14e345dc5b3
+  videoPreviewHash: a3daebdb88f445c7705a83a29abc97a7
+  fromTemplateName: Default
+  fromTemplateUrl: Lens Studio 5.23.0.26072806
+  activationCamera: Front
+  sourceMapEnabled: false
+  shaderCacheInvalidationEnabled: false
+  usingMinClientVersions: false
+  androidMinClientVersion:
+    major: 0
+    minor: 0
+    patch: 0
+    build: 0
+  iOSMinClientVersion:
+    major: 0
+    minor: 0
+    patch: 0
+    build: 0
+  documentId: b0ae2ccd-5185-46cc-87e4-57a209a92012
+  originalDocumentId: f3d524c5-ac07-44a7-b03a-e07d591396ec
+  packageId: ""
+  packageVersion: ""
+  spkPrivilegeLevel: Generic
+  gluboEnabled: false
+targetPlatform: Snapchat
